@@ -1,9 +1,10 @@
 *{
     background-color: #212121;
-    color: azure;
+    color: azure;    
 }
 
 .title{
     color: yellowgreen;
-
+    text-align: center;
+    font-size: 5rem;
 }
